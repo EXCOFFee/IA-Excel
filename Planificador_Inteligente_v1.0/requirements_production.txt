@@ -1,0 +1,30 @@
+# Dependencias Mínimas para Producción
+# Planificador Inteligente - Sistema de Escritorio
+
+# Backend Framework (Esencial)
+fastapi==0.105.0
+uvicorn==0.25.0
+python-multipart==0.0.6
+
+# Base de Datos (Esencial)
+sqlalchemy==2.0.25
+
+# Procesamiento de Excel (Esencial)
+pandas==2.1.3
+openpyxl==3.1.2
+
+# Procesamiento de Datos (Esencial)
+numpy==1.25.2
+
+# HTTP Cliente (Esencial)
+requests==2.31.0
+
+# Validación de Datos (Esencial)
+pydantic==2.5.0
+
+# GUI Desktop (Incluido en Python estándar)
+# tkinter - No necesita instalación separada
+
+# Opcional: Para accesos directos en Windows
+# winshell==1.0.1
+# pywin32==306
