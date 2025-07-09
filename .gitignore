@@ -154,6 +154,7 @@ dist/
 build/
 installer_build/
 github_release/temp_installer/
+Planificador_Inteligente_v1.0/
 !github_release/*.zip
 !github_release/*.exe
 !github_release/*.md
