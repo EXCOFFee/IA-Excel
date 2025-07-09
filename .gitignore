@@ -153,7 +153,11 @@ $RECYCLE.BIN/
 dist/
 build/
 installer_build/
-github_release/
+github_release/temp_installer/
+!github_release/*.zip
+!github_release/*.exe
+!github_release/*.md
+!github_release/*.txt
 
 # Archivos temporales
 *.tmp

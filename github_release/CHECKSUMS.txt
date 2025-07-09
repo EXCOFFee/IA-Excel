@@ -1,0 +1,1 @@
+# Checksums SHA256\n\n3089ee6333463403b69fe43c79205d6c8faa1f20f618cc00344b741816b17bf4  Planificador_Inteligente_v1.0.0_Installer.zip\nd38908c8647e22e57ee1445cada483e1272c2ab91ea9de32e4a8444c2085c815  Planificador_Inteligente_v1.0.0_Standalone.exe\n
